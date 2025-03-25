@@ -1,0 +1,780 @@
+[
+  {
+    "_id": "1f450c27-cf9f-0697-b557-8ab1861809ce",
+    "type": "article",
+    "abstract": "Chiroptera is the second largest order among mammals, with over 1300 species in 21 extant families. The group is extremely diverse in several aspects of its natural history, including dietary strategies, ecology, behavior and morphology. Bat genomes show ample chromosome diversity (from 2n = 14 to 62). As with other mammalian orders, Chiroptera is characterized by clades with low, moderate and extreme chromosomal change. In this article, we will discuss trends of karyotypic evolution within distinct bat lineages (especially Phyllostomidae, Hipposideridae and Rhinolophidae), focusing on two perspectives: evolution of genome architecture, modes of chromosomal evolution, and the use of chromosome data to resolve taxonomic problems.",
+    "accessed": {
+      "month": "8",
+      "day": "26",
+      "year": "2024"
+    },
+    "attachments": [
+      {
+        "_id": "92c07dda-fd31-4359-b1af-3f3dbd32dbc6",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 1,
+        "pub_trashed": 0,
+        "filesize": 1140348,
+        "created": 1724692603.5939999,
+        "pub_id": "1f450c27-cf9f-0697-b557-8ab1861809ce",
+        "source_filename": "genes-08-00272-v2.pdf",
+        "filename": "All Papers/S/Sotero-Caio et al. 2017 - Chromosomal evolution in Chiroptera.pdf",
+        "updated": 1724692609.166,
+        "mimeType": "application/pdf",
+        "md5": "a88853e06d61bfddb5f2f30110325682",
+        "s3_md5": "a88853e06d61bfddb5f2f30110325682",
+        "md5s": [
+          "a88853e06d61bfddb5f2f30110325682"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "initials": "CG",
+        "first": "Cibele G",
+        "formatted": "Sotero-Caio CG",
+        "last": "Sotero-Caio"
+      },
+      {
+        "initials": "RJ",
+        "first": "Robert J",
+        "formatted": "Baker RJ",
+        "last": "Baker"
+      },
+      {
+        "initials": "M",
+        "first": "Marianne",
+        "formatted": "Volleth M",
+        "last": "Volleth"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3390/genes8100272",
+    "citekey": "Sotero-Caio2017-za",
+    "created": 1724692601.639,
+    "doi": "10.3390/genes8100272",
+    "dup_sha1": "5c21f222986dbf2ecc79d4144487e93e9efaaf6a",
+    "folders": [
+      "f45c76a0-c949-4c1d-b45f-439946aca379"
+    ],
+    "foldersNamed": [
+      "Myotis-pangenome"
+    ],
+    "id_list": [
+      "sha1:e4ff37bcb94ec612c548ce3f94bf11ccb2082b2c",
+      "dup_sha1:5c21f222986dbf2ecc79d4144487e93e9efaaf6a",
+      "doi:10.3390/genes8100272",
+      "pmc:PMC5664122",
+      "pmid:29027987",
+      "url:http://dx.doi.org/10.3390/genes8100272",
+      "url:https://pubmed.ncbi.nlm.nih.gov/29027987/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/29027987",
+      "url:https://www.mdpi.com/2073-4425/8/10/272",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5664122"
+    ],
+    "incomplete": 0,
+    "issn": "2073-4425",
+    "issue": "10",
+    "journal": "Genes (Basel)",
+    "journalfull": "Genes",
+    "keywords": "bats; chromosomal rearrangements; cytogenomics; karyotype; phylogeny",
+    "kind": "Review",
+    "labels": [],
+    "language": "en",
+    "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+    "pdf_restricted": 0,
+    "pmc": "PMC5664122",
+    "pmid": "29027987",
+    "published": {
+      "month": "10",
+      "day": "13",
+      "year": "2017"
+    },
+    "publisher": "Genes (Basel)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "e4ff37bcb94ec612c548ce3f94bf11ccb2082b2c",
+    "title": "Chromosomal evolution in Chiroptera",
+    "url": [
+      "https://pubmed.ncbi.nlm.nih.gov/29027987/",
+      "http://dx.doi.org/10.3390/genes8100272",
+      "https://www.ncbi.nlm.nih.gov/pubmed/29027987",
+      "https://www.mdpi.com/2073-4425/8/10/272",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5664122"
+    ],
+    "volume": "8"
+  },
+  {
+    "_id": "68b0847f-c159-04ff-8559-ea5bbd208699",
+    "type": "article",
+    "abstract": "Despite their ubiquitous incidence, little is known about the chromosomal distribution of long interspersed elements (LINEs) in mammalian genomes. Phyllostomid bats, characterized by lineages with distinct trends of chromosomal evolution coupled with remarkable ecological and taxonomic diversity, represent good models to understand how these repetitive sequences contribute to the evolution of genome architecture and its link to lineage diversification. To test the hypothesis that LINE-1 sequences were important modifiers of bat genome architecture, we characterized the distribution of LINE-1-derived sequences on genomes of 13 phyllostomid species within a phylogenetic framework. We found massive accumulation of LINE-1 elements in the centromeres of most species: a rare phenomenon on mammalian genomes. We hypothesize that expansion of these elements has occurred early in the radiation of phyllostomids and recurred episodically. LINE-1 expansions on centromeric heterochromatin probably spurred chromosomal change before the radiation of phyllostomids into the extant 11 subfamilies and contributed to the high degree of karyotypic variation observed among different lineages. Understanding centromere architecture in a variety of taxa promises to explain how lineage-specific changes on centromere structure can contribute to karyotypic diversity while not disrupting functional constraints for proper cell division.",
+    "affiliation": "Departamento de Genética, Laboratório de Genética e Citogenética Animal e Humana, UFPE-Universidade Federal de Pernambuco, Av. da Engenharia s/n; Cidade Universitária, Recife, PE, CEP:50740-600, Brazil. cibele.caio@gmail.com. Department of Biological Sciences, Texas Tech University, Lubbock, TX, USA. cibele.caio@gmail.com. Departamento de Biologia, Grupo de Estudos em Citogenômica e Evolução Animal, UNESP-Universidade Estadual Paulista, Instituto de Biociências, Rio Claro, SP, Brazil. Departamento de Genética, Laboratório de Genética e Citogenética Animal e Humana, UFPE-Universidade Federal de Pernambuco, Av. da Engenharia s/n; Cidade Universitária, Recife, PE, CEP:50740-600, Brazil. Centro de Saúde e Tecnologia, Unidade Acadêmica de Ciências Biológicas, UFCG-Universidade Federal de Campina Grande, Patos, PB, Brazil. Departamento de Bioprocessos e Biotecnologia da Faculdade de Ciências Agronômicas, UNESP-Universidade Estadual Paulista, Botucatu, SP, Brazil. Departamento de Morfologia, Laboratório Genômica Integrativa, UNESP-Universidade Estadual Paulista, Botucatu, SP, Brazil.",
+    "attachments": [
+      {
+        "_id": "863db7d3-bb2c-0acd-8608-4ff8200ee880",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 1,
+        "hasUpdates": 1,
+        "created": 1724692667.487903,
+        "pub_trashed": 0,
+        "filesize": 4359738,
+        "filename": "All Papers/D/de Sotero-Caio et al. 2017 - Centromeric enrichment of LINE-1 retrotrans ... nd its significance for the chromosome evolution of Phyllostomid bats.pdf",
+        "source_filename": "[article_pdf].pdf",
+        "pub_id": "68b0847f-c159-04ff-8559-ea5bbd208699",
+        "gdrive_needs_sync": 1,
+        "subfolders": [
+          "All Papers/D"
+        ],
+        "updated": 1724692669.414,
+        "mimeType": "application/pdf",
+        "md5": "ec354001503b4f9fab8d3e1f10c213f0",
+        "s3_md5": "ec354001503b4f9fab8d3e1f10c213f0",
+        "md5s": [
+          "ec354001503b4f9fab8d3e1f10c213f0"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "initials": "CG",
+        "first": "Cibele Gomes",
+        "formatted": "de Sotero-Caio CG",
+        "last": "de Sotero-Caio"
+      },
+      {
+        "initials": "DC",
+        "first": "Diogo Cavalcanti",
+        "formatted": "Cabral-de-Mello DC",
+        "last": "Cabral-de-Mello"
+      },
+      {
+        "initials": "MDS",
+        "first": "Merilane da Silva",
+        "formatted": "Calixto MDS",
+        "last": "Calixto"
+      },
+      {
+        "initials": "GT",
+        "first": "Guilherme Targino",
+        "formatted": "Valente GT",
+        "last": "Valente"
+      },
+      {
+        "initials": "C",
+        "first": "Cesar",
+        "formatted": "Martins C",
+        "last": "Martins"
+      },
+      {
+        "initials": "V",
+        "first": "Vilma",
+        "formatted": "Loreto V",
+        "last": "Loreto"
+      },
+      {
+        "initials": "MJ",
+        "first": "Maria José",
+        "formatted": "de Souza MJ",
+        "last": "de Souza"
+      },
+      {
+        "initials": "N",
+        "first": "Neide",
+        "formatted": "Santos N",
+        "last": "Santos"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1007/s10577-017-9565-9",
+    "citekey": "De_Sotero-Caio2017-si",
+    "crawl_urls": [
+      "http://dx.doi.org/10.1007/s10577-017-9565-9",
+      "https://dx.doi.org/10.1007/s10577-017-9565-9",
+      "http://link.springer.com/10.1007/s10577-017-9565-9"
+    ],
+    "created": 1724692662.180653,
+    "doi": "10.1007/s10577-017-9565-9",
+    "dup_sha1": "766b8f8239156c9d186edac902bce6d1c987548a",
+    "folders": [
+      "f45c76a0-c949-4c1d-b45f-439946aca379"
+    ],
+    "foldersNamed": [
+      "Myotis-pangenome"
+    ],
+    "id_list": [
+      "sha1:4d618fc2a8cdc13e9da45c49b310f9f30d68fae1",
+      "dup_sha1:766b8f8239156c9d186edac902bce6d1c987548a",
+      "doi:10.1007/s10577-017-9565-9",
+      "pmid:28916913",
+      "url:http://dx.doi.org/10.1007/s10577-017-9565-9",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/28916913",
+      "url:https://dx.doi.org/10.1007/s10577-017-9565-9",
+      "url:http://link.springer.com/10.1007/s10577-017-9565-9"
+    ],
+    "incomplete": 0,
+    "issn": "0967-3849",
+    "issn_alt": "1573-6849",
+    "issue": "3-4",
+    "journal": "Chromosome Res.",
+    "journalfull": "Chromosome research: an international journal on the molecular, supramolecular and evolutionary aspects of chromosome biology",
+    "keywords": "Chiroptera; Phyllostomidae; centromere; karyotype; non-LTR; transposable element",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+    "pages": "313-325",
+    "pdf_restricted": 0,
+    "pii": "10.1007/s10577-017-9565-9",
+    "pmid": "28916913",
+    "published": {
+      "month": "10",
+      "year": "2017"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "4d618fc2a8cdc13e9da45c49b310f9f30d68fae1",
+    "title": "Centromeric enrichment of LINE-1 retrotransposons and its significance for the chromosome evolution of Phyllostomid bats",
+    "url": [
+      "http://dx.doi.org/10.1007/s10577-017-9565-9",
+      "https://www.ncbi.nlm.nih.gov/pubmed/28916913"
+    ],
+    "volume": "25"
+  },
+  {
+    "_id": "57592b6c-4523-0845-b124-ce7f2f286085",
+    "type": "article",
+    "abstract": "The emergence of COVID-19 and severe acute respiratory syndrome (SARS) has prioritized understanding bats' viral tolerance. Myotis bats are exceptionally species rich and have evolved viral tolerance. They also exhibit swarming, a cryptic behavior where large, multi-species assemblages gather for mating, which has been hypothesized to promote interspecific hybridization. To resolve the coevolution of genome architecture and their unusual antiviral tolerance, we undertook a phylogenomic analysis of 60 Old World Myotis genomes. We demonstrate an extensive history of introgressive hybridization that has replaced the species phylogeny across 17%-93% of the genome except for pericentromeric regions of macrochromosomes. Introgression tracts were enriched on microchromosome regions containing key antiviral pathway genes overexpressed during viral challenge experiments. Together, these results suggest that the unusual Myotis karyotype may have evolved to selectively position immune-related genes in high recombining genomic regions prone to introgression of divergent alleles, including a diversity of interleukin loci responsible for the release of pro-inflammatory cytokines.",
+    "affiliation": "Veterinary Integrative Biosciences, Texas A&M University, College Station, TX, USA. Electronic address: nfoley@cvm.tamu.edu. Veterinary Integrative Biosciences, Texas A&M University, College Station, TX, USA; Interdisciplinary Program in Genetics & Genomics, Texas A&M University, College Station, TX, USA. Department of Mammalogy and Ornithology, Natural History Museum of Geneva, Route de Malagnou 1, BP 6434, 1211 Geneva 6, Switzerland. Institut des Sciences de l'Évolution, Montpellier (ISEM), Université de Montpellier, CNRS, EPHE, IRD, Montpellier, France; Institut Universitaire de France, Paris, France. School of Biology and Environmental, Science, Science Centre West, University College Dublin, Belfield, Ireland. Interdisciplinary Program in Genetics & Genomics, Texas A&M University, College Station, TX, USA; Department of Veterinary Pathobiology, Texas A&M University, College Station, TX 77843, USA. Veterinary Integrative Biosciences, Texas A&M University, College Station, TX, USA; Interdisciplinary Program in Genetics & Genomics, Texas A&M University, College Station, TX, USA. Electronic address: wmurphy@cvm.tamu.edu.",
+    "attachments": [
+      {
+        "_id": "aecfd424-3909-0b02-896d-513fed891fe7",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 1,
+        "hasUpdates": 1,
+        "created": 1724692687.166804,
+        "pub_trashed": 0,
+        "filesize": 3709056,
+        "filename": "All Papers/F/Foley et al. 2024 - Karyotypic stasis and swarming influenced the evolution of viral tolerance in a species-rich bat radiation.pdf",
+        "source_filename": "[article_pdf].pdf",
+        "pub_id": "57592b6c-4523-0845-b124-ce7f2f286085",
+        "gdrive_needs_sync": 1,
+        "subfolders": [
+          "All Papers/F"
+        ],
+        "updated": 1724692689.147,
+        "mimeType": "application/pdf",
+        "md5": "6fee43028db166d12372257f7e8f4509",
+        "s3_md5": "6fee43028db166d12372257f7e8f4509",
+        "md5s": [
+          "6fee43028db166d12372257f7e8f4509"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "initials": "NM",
+        "first": "Nicole M",
+        "formatted": "Foley NM",
+        "last": "Foley"
+      },
+      {
+        "initials": "AJ",
+        "first": "Andrew J",
+        "formatted": "Harris AJ",
+        "last": "Harris"
+      },
+      {
+        "initials": "KR",
+        "first": "Kevin R",
+        "formatted": "Bredemeyer KR",
+        "last": "Bredemeyer"
+      },
+      {
+        "initials": "M",
+        "first": "Manuel",
+        "formatted": "Ruedi M",
+        "last": "Ruedi"
+      },
+      {
+        "initials": "SJ",
+        "first": "Sebastien J",
+        "formatted": "Puechmaille SJ",
+        "last": "Puechmaille"
+      },
+      {
+        "initials": "EC",
+        "first": "Emma C",
+        "formatted": "Teeling EC",
+        "last": "Teeling"
+      },
+      {
+        "initials": "MF",
+        "first": "Michael F",
+        "formatted": "Criscitiello MF",
+        "last": "Criscitiello"
+      },
+      {
+        "initials": "WJ",
+        "first": "William J",
+        "formatted": "Murphy WJ",
+        "last": "Murphy"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/j.xgen.2023.100482",
+    "citekey": "Foley2024-bk",
+    "crawl_urls": [
+      "http://dx.doi.org/10.1016/j.xgen.2023.100482",
+      "https://dx.doi.org/10.1016/j.xgen.2023.100482",
+      "https://linkinghub.elsevier.com/retrieve/pii/S2666979X23003348"
+    ],
+    "created": 1724692684.491041,
+    "doi": "10.1016/j.xgen.2023.100482",
+    "dup_sha1": "bf00b13c3bfe6c68abae83cb1b529554ba25b9ef",
+    "folders": [
+      "f45c76a0-c949-4c1d-b45f-439946aca379"
+    ],
+    "foldersNamed": [
+      "Myotis-pangenome"
+    ],
+    "id_list": [
+      "sha1:1547f288561521c651f59feb0e4f1e1330a87eff",
+      "dup_sha1:bf00b13c3bfe6c68abae83cb1b529554ba25b9ef",
+      "doi:10.1016/j.xgen.2023.100482",
+      "pmc:PMC10879000",
+      "pmid:38237599",
+      "url:http://dx.doi.org/10.1016/j.xgen.2023.100482",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/38237599",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10879000",
+      "url:https://dx.doi.org/10.1016/j.xgen.2023.100482",
+      "url:https://linkinghub.elsevier.com/retrieve/pii/S2666979X23003348"
+    ],
+    "incomplete": 0,
+    "issn": "2666-979X",
+    "issue": "2",
+    "journal": "Cell Genom",
+    "journalfull": "Cell genomics",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+    "pages": "100482",
+    "pdf_restricted": 0,
+    "pii": "S2666-979X(23)00334-8",
+    "pmc": "PMC10879000",
+    "pmid": "38237599",
+    "published": {
+      "month": "2",
+      "day": "14",
+      "year": "2024"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "1547f288561521c651f59feb0e4f1e1330a87eff",
+    "title": "Karyotypic stasis and swarming influenced the evolution of viral tolerance in a species-rich bat radiation",
+    "url": [
+      "http://dx.doi.org/10.1016/j.xgen.2023.100482",
+      "https://www.ncbi.nlm.nih.gov/pubmed/38237599",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10879000"
+    ],
+    "volume": "4"
+  },
+  {
+    "_id": "6227a303-6efe-064c-9a21-f50e16fc529c",
+    "type": "article",
+    "abstract": "The rich species diversity of bats encompasses extraordinary adaptations, including extreme longevity and tolerance to infectious disease. While traditional approaches using genetic screens in model organisms have uncovered some fundamental processes underlying these traits, model organisms do not possess the variation required to understand the evolution of traits with complex genetic architectures. In contrast, the advent of genomics at tree-of-life scales enables us to study the genetic interactions underlying these processes by leveraging millions of years of evolutionary trial-and-error. Here, we use the rich species diversity of the genus Myotis - one of the longest-living clades of mammals - to study the evolution of longevity-associated traits and infectious disease using functional evolutionary genomics. We generated reference genome assemblies and cell lines for 8 closely-related (~11 MYA) species of Myotis rich in phenotypic and life history diversity. Using genome-wide screens of positive selection, analysis of structural variation and copy number variation, and functional experiments in primary cell lines, we identify new patterns of adaptation in longevity, cancer resistance, and viral interactions both within Myotis and across bats. We find that the rapid evolution of lifespan in Myotis has some of the most significant variations in cancer risk across mammals, and demonstrate a unique DNA damage response in the long-lived M. lucifugus using primary cell culture models. Furthermore, we find evidence of abundant adaptation in response to DNA viruses, but not RNA viruses, in Myotis and other bats. This is in contrast to these patterns of adaptation in humans, which might contribute to the importance of bats as a reservoir of zoonotic viruses. Together, our results demonstrate the utility of leveraging natural variation to understand the genomics of traits with implications for human health and suggest important pleiotropic relationships between infectious disease tolerance and cancer resistance.",
+    "accessed": {
+      "month": "10",
+      "day": "14",
+      "year": "2024"
+    },
+    "attachments": [
+      {
+        "_id": "2268f159-0cc7-4981-823a-02ae2df04d68",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 0,
+        "pub_trashed": null,
+        "filesize": 3178845,
+        "created": 1728926939.4799998,
+        "md5s": [
+          "e87b9a142f41954c66cbeec84ea69044"
+        ],
+        "filename": "All Papers/V/Vazquez et al. 2024 - 2024.10.10.617725.full.pdf",
+        "pub_id": "6227a303-6efe-064c-9a21-f50e16fc529c",
+        "source_filename": "2024.10.10.617725.full.pdf",
+        "gdrive_needs_sync": 174113091982,
+        "subfolders": [],
+        "s3_md5": "e87b9a142f41954c66cbeec84ea69044",
+        "mimeType": "application/pdf",
+        "updated": 1728926945.298,
+        "md5": "e87b9a142f41954c66cbeec84ea69044"
+      },
+      {
+        "_id": "9f5ada77-5739-448e-8426-aa76208b267f",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 1,
+        "pub_trashed": null,
+        "filesize": 3829875,
+        "created": 1741036164.7129998,
+        "md5s": [
+          "1ba05d9f0a439438df9c0209970950d6"
+        ],
+        "filename": "All Papers/V/Vazquez et al. 2024 - Extensive longevity and DNA virus-driven adaptation in nearctic Myotis bats.pdf",
+        "pub_id": "6227a303-6efe-064c-9a21-f50e16fc529c",
+        "source_filename": "2024.10.10.617725.full.pdf",
+        "gdrive_needs_sync": 174113091983,
+        "subfolders": [],
+        "s3_md5": "1ba05d9f0a439438df9c0209970950d6",
+        "mimeType": "application/pdf",
+        "updated": 1741036297.942,
+        "md5": "1ba05d9f0a439438df9c0209970950d6"
+      }
+    ],
+    "author": [
+      {
+        "initials": "JM",
+        "first": "Juan M",
+        "orcid": "0000-0001-8341-2390",
+        "formatted": "Vazquez JM",
+        "last": "Vazquez"
+      },
+      {
+        "initials": "ME",
+        "first": "M Elise",
+        "formatted": "Lauterbur ME",
+        "last": "Lauterbur"
+      },
+      {
+        "initials": "S",
+        "first": "Saba",
+        "formatted": "Mottaghinia S",
+        "last": "Mottaghinia"
+      },
+      {
+        "initials": "M",
+        "first": "Melanie",
+        "formatted": "Bucci M",
+        "last": "Bucci"
+      },
+      {
+        "initials": "D",
+        "first": "Devaughn",
+        "formatted": "Fraser D",
+        "last": "Fraser"
+      },
+      {
+        "initials": "G",
+        "first": "Genavieve",
+        "formatted": "Gray-Sandoval G",
+        "last": "Gray-Sandoval"
+      },
+      {
+        "initials": "L",
+        "first": "Léa",
+        "formatted": "Gaucherand L",
+        "last": "Gaucherand"
+      },
+      {
+        "initials": "ZR",
+        "first": "Zeinab R",
+        "formatted": "Haidar ZR",
+        "last": "Haidar"
+      },
+      {
+        "initials": "M",
+        "first": "Melissa",
+        "formatted": "Han M",
+        "last": "Han"
+      },
+      {
+        "initials": "W",
+        "first": "William",
+        "formatted": "Kohler W",
+        "last": "Kohler"
+      },
+      {
+        "initials": "TM",
+        "first": "Tanya M",
+        "formatted": "Lama TM",
+        "last": "Lama"
+      },
+      {
+        "initials": "A",
+        "first": "Amandine",
+        "formatted": "Le Corf A",
+        "last": "Le Corf"
+      },
+      {
+        "initials": "S",
+        "first": "Sarah",
+        "formatted": "Maesen S",
+        "last": "Maesen"
+      },
+      {
+        "initials": "D",
+        "first": "Dakota",
+        "formatted": "McMillan D",
+        "last": "McMillan"
+      },
+      {
+        "initials": "S",
+        "first": "Stacy",
+        "formatted": "Li S",
+        "last": "Li"
+      },
+      {
+        "initials": "J",
+        "first": "Johnathan",
+        "formatted": "Lo J",
+        "last": "Lo"
+      },
+      {
+        "initials": "C",
+        "first": "Carine",
+        "formatted": "Rey C",
+        "last": "Rey"
+      },
+      {
+        "initials": "SL",
+        "first": "Samantha Lr",
+        "formatted": "Capel SL",
+        "last": "Capel"
+      },
+      {
+        "initials": "M",
+        "first": "Michael",
+        "formatted": "Singer M",
+        "last": "Singer"
+      },
+      {
+        "initials": "K",
+        "first": "Kathleen",
+        "formatted": "Slocum K",
+        "last": "Slocum"
+      },
+      {
+        "initials": "W",
+        "first": "William",
+        "formatted": "Thomas W",
+        "last": "Thomas"
+      },
+      {
+        "initials": "JD",
+        "first": "Janet Debelak",
+        "formatted": "Tyburec JD",
+        "last": "Tyburec"
+      },
+      {
+        "initials": "S",
+        "first": "Sarah",
+        "formatted": "Villa S",
+        "last": "Villa"
+      },
+      {
+        "initials": "R",
+        "first": "Richard",
+        "formatted": "Miller R",
+        "last": "Miller"
+      },
+      {
+        "initials": "M",
+        "first": "Michael",
+        "formatted": "Buchalski M",
+        "last": "Buchalski"
+      },
+      {
+        "initials": "JP",
+        "first": "Jose Pablo",
+        "formatted": "Vazquez-Medina JP",
+        "last": "Vazquez-Medina"
+      },
+      {
+        "initials": "S",
+        "first": "Sébastien",
+        "formatted": "Pfeffer S",
+        "last": "Pfeffer"
+      },
+      {
+        "initials": "L",
+        "first": "Lucie",
+        "formatted": "Etienne L",
+        "last": "Etienne"
+      },
+      {
+        "initials": "D",
+        "first": "David",
+        "formatted": "Enard D",
+        "last": "Enard"
+      },
+      {
+        "initials": "PH",
+        "first": "Peter H",
+        "formatted": "Sudmant PH",
+        "last": "Sudmant"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1101/2024.10.10.617725",
+    "citekey": "Vazquez2024-oh",
+    "copyright": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "created": 1728926933.1389997,
+    "doi": "10.1101/2024.10.10.617725",
+    "dup_sha1": "f2ebb8356421d353b6724e272f12ff564781c365",
+    "folders": [
+      "150aefa6-1577-42a0-8d03-9d6e93c278ef",
+      "f45c76a0-c949-4c1d-b45f-439946aca379"
+    ],
+    "foldersNamed": [
+      "LabPublications",
+      "Myotis-pangenome"
+    ],
+    "id_list": [
+      "sha1:1517ee49b0082bf61981f94aa9feb4d3dc5baf30",
+      "dup_sha1:f2ebb8356421d353b6724e272f12ff564781c365",
+      "doi:10.1101/2024.10.10.617725",
+      "pmc:PMC11482938",
+      "pmid:39416019",
+      "url:http://dx.doi.org/10.1101/2024.10.10.617725",
+      "url:https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.10.617725.full.pdf",
+      "url:https://www.biorxiv.org/content/10.1101/2024.10.10.617725v1.abstract",
+      "url:https://www.biorxiv.org/content/10.1101/2024.10.10.617725v1",
+      "url:http://biorxiv.org/lookup/doi/10.1101/2024.10.10.617725",
+      "url:https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=DPrxytUAAAAJ:KlAtU1dfN6UC",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11482938",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/39416019"
+    ],
+    "incomplete": 0,
+    "journal": "bioRxivorg",
+    "journalfull": "bioRxiv.org: the preprint server for biology",
+    "keywords": "Aging; Bats; Cancer; Evolutionary Biology; Functional Genomics; Immunity; Infectious Disease",
+    "labels": [],
+    "language": "en",
+    "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+    "pages": "2024.10.10.617725",
+    "pdf_restricted": 0,
+    "pmc": "PMC11482938",
+    "pmid": "39416019",
+    "published": {
+      "month": "10",
+      "day": "11",
+      "year": "2024"
+    },
+    "publisher": "",
+    "pubtype": "PP_PREPRINT",
+    "sha1": "1517ee49b0082bf61981f94aa9feb4d3dc5baf30",
+    "title": "Extensive longevity and DNA virus-driven adaptation in nearctic Myotis bats",
+    "url": [
+      "https://www.biorxiv.org/content/10.1101/2024.10.10.617725v1.abstract",
+      "https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.10.617725.full.pdf",
+      "https://www.biorxiv.org/content/10.1101/2024.10.10.617725v1",
+      "http://dx.doi.org/10.1101/2024.10.10.617725",
+      "http://biorxiv.org/lookup/doi/10.1101/2024.10.10.617725",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=DPrxytUAAAAJ:KlAtU1dfN6UC",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11482938",
+      "https://www.ncbi.nlm.nih.gov/pubmed/39416019"
+    ]
+  },
+  {
+    "_id": "27970f08-b624-0552-bafb-5504f6840877",
+    "type": "article",
+    "abstract": "The study of B chromosomes (Bs) started more than a century ago, while their presence in mammals dates since 1965. As the past two decades have seen huge progress in application of molecular techniques, we decided to throw a glance on new data on Bs in mammals and to review them. We listed 85 mammals with Bs that make 1.94% of karyotypically studied species. Contrary to general view, a typical B chromosome in mammals appears both as sub- or metacentric that is the same size as small chromosomes of standard complement. Both karyotypically stable and unstable species possess Bs. The presence of Bs in certain species influences the cell division, the degree of recombination, the development, a number of quantitative characteristics, the host-parasite interactions and their behaviour. There is at least some data on molecular structure of Bs recorded in nearly a quarter of species. Nevertheless, a more detailed molecular composition of Bs presently known for six mammalian species, confirms the presence of protein coding genes, and the transcriptional activity for some of them. Therefore, the idea that Bs are inert is outdated, but the role of Bs is yet to be determined. The maintenance of Bs is obviously not the same for all species, so the current models must be adapted while bearing in mind that Bs are not inactive as it was once thought.",
+    "affiliation": "Institute for Biological Research \"Siniša Stanković\", Department of Genetic Research, University of Belgrade, Bulevar despota Stefana 142, Belgrade 11060, Serbia. mladenvu@ibiss.bg.ac.rs. Institute for Biological Research \"Siniša Stanković\", Department of Genetic Research, University of Belgrade, Bulevar despota Stefana 142, Belgrade 11060, Serbia. marija.rajicic@ibiss.bg.ac.rs. Institute for Biological Research \"Siniša Stanković\", Department of Genetic Research, University of Belgrade, Bulevar despota Stefana 142, Belgrade 11060, Serbia. jelena.blagojevic@ibiss.bg.ac.rs.",
+    "attachments": [
+      {
+        "_id": "faddbd20-7dd1-0ac1-ad48-d8a8b218ae58",
+        "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+        "article_pdf": 1,
+        "hasUpdates": 1,
+        "created": 1724692508.227147,
+        "pub_trashed": 0,
+        "filesize": 361747,
+        "filename": "All Papers/V/Vujošević et al. 2018 - B Chromosomes in Populations of Mammals Revisited.pdf",
+        "source_filename": "[article_pdf].pdf",
+        "pub_id": "27970f08-b624-0552-bafb-5504f6840877",
+        "gdrive_needs_sync": 1,
+        "subfolders": [
+          "All Papers/V"
+        ],
+        "updated": 1724692509.671,
+        "mimeType": "application/pdf",
+        "md5": "766f8e4c5e9928f8756d136449051f7b",
+        "s3_md5": "766f8e4c5e9928f8756d136449051f7b",
+        "md5s": [
+          "766f8e4c5e9928f8756d136449051f7b"
+        ]
+      }
+    ],
+    "author": [
+      {
+        "initials": "M",
+        "first": "Mladen",
+        "formatted": "Vujošević M",
+        "orcid": "0000-0002-5577-4455",
+        "last": "Vujošević"
+      },
+      {
+        "initials": "M",
+        "first": "Marija",
+        "formatted": "Rajičić M",
+        "orcid": "0000-0002-2470-9888",
+        "last": "Rajičić"
+      },
+      {
+        "initials": "J",
+        "first": "Jelena",
+        "formatted": "Blagojević J",
+        "orcid": "0000-0001-7102-5510",
+        "last": "Blagojević"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3390/genes9100487",
+    "citekey": "Vujosevic2018-gg",
+    "crawl_urls": [
+      "http://dx.doi.org/10.3390/genes9100487",
+      "https://dx.doi.org/10.3390/genes9100487",
+      "https://www.mdpi.com/2073-4425/9/10/487"
+    ],
+    "created": 1724692505.689941,
+    "doi": "10.3390/genes9100487",
+    "dup_sha1": "b5375c4cf6cfaeaeeff7252c9b61e74ad2447848",
+    "folders": [
+      "f45c76a0-c949-4c1d-b45f-439946aca379"
+    ],
+    "foldersNamed": [
+      "Myotis-pangenome"
+    ],
+    "id_list": [
+      "sha1:37a77a43f02a34fe6de64ba48a0b9909c549bc37",
+      "dup_sha1:b5375c4cf6cfaeaeeff7252c9b61e74ad2447848",
+      "doi:10.3390/genes9100487",
+      "pmc:PMC6210394",
+      "pmid:30304868",
+      "url:http://dx.doi.org/10.3390/genes9100487",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/30304868",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210394",
+      "url:https://dx.doi.org/10.3390/genes9100487",
+      "url:https://www.mdpi.com/2073-4425/9/10/487"
+    ],
+    "incomplete": 0,
+    "issn": "2073-4425",
+    "issue": "10",
+    "journal": "Genes ",
+    "journalfull": "Genes",
+    "keywords": "additional chromosomes; chromosome polymorphism; evolution; supernumerary chromosomes",
+    "kind": "Review",
+    "labels": [],
+    "language": "en",
+    "owner": "DED3EE60F34811ED94468ADFD2A92DCC",
+    "pdf_restricted": 0,
+    "pii": "genes9100487",
+    "pmc": "PMC6210394",
+    "pmid": "30304868",
+    "published": {
+      "month": "10",
+      "day": "9",
+      "year": "2018"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "37a77a43f02a34fe6de64ba48a0b9909c549bc37",
+    "title": "B Chromosomes in Populations of Mammals Revisited",
+    "url": [
+      "http://dx.doi.org/10.3390/genes9100487",
+      "https://www.ncbi.nlm.nih.gov/pubmed/30304868",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210394"
+    ],
+    "volume": "9"
+  }
+]
