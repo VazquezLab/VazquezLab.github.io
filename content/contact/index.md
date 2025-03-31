@@ -16,8 +16,8 @@ sections:
       latitude: "40.799039892437975"
       longitude: "-77.86415250000002"
     directions: 
-    email: "juan@vazquez.bio"
-    phone: "888 888 88 88"
+    email: "vazquez@psu.edu"
+    phone: ""
     form:
       formspree:
         id: null

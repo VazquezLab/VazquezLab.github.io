@@ -11,7 +11,9 @@ sections:
     - Staff
     - Postdocs
     - Grad Students
+    - Undergrads
     - Visitors
+    - Collaborators
     - Alumni
   design:
     show_interests: false
