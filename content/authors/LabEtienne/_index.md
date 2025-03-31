@@ -6,7 +6,7 @@ email: "lucie.etienne@ens-lyon.fr"
 organizations:
 - name: Etienne Lab, Centre International de Recherche en Infectiologie (CIRI), ENS Lyon
   url: "https://lsetienne.wordpress.com/"
-role: "Evolution of inate immunity in bats"
+role: "Evolution of innate immunity in bats"
 social:
 - icon: envelope
   icon_pack: fas

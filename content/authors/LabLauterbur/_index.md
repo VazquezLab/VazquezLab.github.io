@@ -6,7 +6,7 @@ email: "elise.lauterbur@uvm.edu"
 organizations:
 - name: Lauterbur Evo-Evo Lab, University of Vermont
   url: "http://www.lauterbur.org/"
-role: "Evolution of inate immunity in bats"
+role: "Partner in bat-crime; population genomics of bats and rodents"
 social:
 - icon: envelope
   icon_pack: fas
