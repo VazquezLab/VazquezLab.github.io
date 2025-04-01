@@ -3,8 +3,6 @@ first_name: Dash
 middle_name: Hound
 last_name: Vazquez
 highlight_name: false
-# bio: My research interests include distributed robotics, mobile computing and programmable
-#   matter.
 education:
   courses:
   - course: Ph.D. in Human Genetics
@@ -21,14 +19,9 @@ organizations:
 - name: The Pennsylvania State University
   url: "https://science.psu.edu/bio"
 role: Chief Barketing Officer 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:juan@vazquez.bio
-superuser: true
+superuser: false
 title: Dash H. Vazquez
 user_groups:
-# - Chief Barketing Officer
   - Staff
 ---
 
