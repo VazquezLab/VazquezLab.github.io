@@ -14,7 +14,7 @@ social:
 - icon: globe
   icon_pack: fas
   link: http://www.lauterbur.org/
-superuser: true
+superuser: false
 title: The Lauterbur Evo-Evo Lab
 user_groups:
 - Collaborators

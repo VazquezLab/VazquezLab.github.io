@@ -22,7 +22,7 @@ social:
 - icon: google-scholar
   icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=X3-BpgMAAAAJ&hl=en
-superuser: true
+superuser: false
 title: Sarah Guth
 user_groups:
 - Alumni

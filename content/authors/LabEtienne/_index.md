@@ -14,7 +14,7 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://lsetienne.wordpress.com/
-superuser: true
+superuser: false
 title: The Etienne Lab
 user_groups:
 - Collaborators

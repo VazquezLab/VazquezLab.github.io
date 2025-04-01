@@ -19,7 +19,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katia-renault-091146249/
-superuser: true
+superuser: false
 title: Katia Renault
 user_groups:
 - Alumni

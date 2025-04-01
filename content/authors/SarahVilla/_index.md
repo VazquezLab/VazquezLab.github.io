@@ -6,7 +6,7 @@ email: "sarahgsvilla@berkeley.edu"
 organizations:
 - name: Vazquez-Medina Lab, University of California, Berkeley
   url: "https://www.vazquezmedinalab.com/people-new"
-role: "Undergraduate Researcher"
+role: "Undergraduate Researcher (UC Berkeley)"
 social:
 - icon: envelope
   icon_pack: fas
@@ -17,7 +17,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sarah-villa/
-superuser: true
+superuser: false
 title: Sarah Villa
 user_groups:
 - Undergrads

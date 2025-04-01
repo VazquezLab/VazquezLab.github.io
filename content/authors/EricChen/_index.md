@@ -18,7 +18,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/eric-chen-b63a14179/
-superuser: true
+superuser: false
 title: Eric Chen
 user_groups:
 - Alumni

@@ -14,7 +14,7 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://www.sudmantlab.org
-superuser: true
+superuser: false
 title: The Sudmant Lab
 user_groups:
 - Collaborators

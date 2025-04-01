@@ -22,7 +22,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nadyaali/
-superuser: true
+superuser: false
 title: Nadya Ali
 user_groups:
 - Alumni

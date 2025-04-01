@@ -14,7 +14,7 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://www.vazquezmedinalab.com/
-superuser: true
+superuser: false
 title: The Vazquez-Medina Lab
 user_groups:
 - Collaborators

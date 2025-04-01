@@ -8,6 +8,7 @@ sections:
     title: Meet the Team
     user_groups:
     - Principal Investigators
+    # - Chief Barketing Officer
     - Staff
     - Postdocs
     - Grad Students
@@ -21,4 +22,5 @@ sections:
     show_social: true
 title: People
 type: landing
+columns: '2'
 ---
