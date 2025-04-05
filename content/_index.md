@@ -18,7 +18,7 @@ sections:
           studying the evolution of aging using pangenomics, molecular and 
           cellular biology, and functional evolutionary genomics.
     image:
-      filename: AdobeStock_450930138.jpeg
+      filename: Collage.jpg
     text: |-
       <br>
       

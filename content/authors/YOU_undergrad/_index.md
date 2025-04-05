@@ -13,7 +13,7 @@ social:
   icon_pack: fas
   link: mailto:vazquez@psu.edu
 superuser: false
-title: This could be YOU!
+title: Undergrads wanted!
 user_groups:
 - Undergrads
 ---
