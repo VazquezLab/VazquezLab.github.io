@@ -10,19 +10,19 @@ sections:
       postcode: "16801"
       region: PA
       street: Mueller Laboratory
-    appointment_url: https://calendly.com
+    appointment_url: https://calendly.com/vazquezlab/30min
     autolink: true
     coordinates:
       latitude: "40.799039892437975"
       longitude: "-77.86415250000002"
     directions: 
-    email: "vazquez@psu.edu"
+    email: "juanmvazquez@psu.edu"
     phone: ""
     form:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     office_hours:
     - On request
