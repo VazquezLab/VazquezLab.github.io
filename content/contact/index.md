@@ -10,7 +10,7 @@ sections:
       postcode: "16801"
       region: PA
       street: Mueller Laboratory
-    appointment_url: https://calendly.com/vazquezlab/30min
+    # appointment_url: https://calendly.com/vazquezlab/30min
     autolink: true
     coordinates:
       latitude: "40.799039892437975"
