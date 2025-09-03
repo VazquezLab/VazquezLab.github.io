@@ -3,6 +3,14 @@ first_name: Katia
 last_name: Renault
 highlight_name: false
 email: "krenault@g.harvard.edu"
+education:
+  courses:
+  - course: Ph.D.
+    institution: Harvard University
+    year: Ongoing
+  - course: B.Sc. in Molecular Environmental Biology
+    institution: University California, Berkeley
+    year: 2023
 organizations:
 - name: Sudmant Lab, University of California, Berkeley
   url: "https://www.sudmantlab.org/people.html"

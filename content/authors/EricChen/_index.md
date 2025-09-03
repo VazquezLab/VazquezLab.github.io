@@ -3,6 +3,14 @@ first_name: Eric
 last_name: Chen
 highlight_name: false
 email: "eric_chen@g.harvard.edu"
+education:
+  courses:
+  - course: Ph.D. in Cellular and Molecular Biology
+    institution: Harvard University
+    year: Ongoing
+  - course: B.Sc. in Biology & Chemistry
+    institution: University of Chicago
+    year: 2021
 organizations:
 - name: Lynch Lab, University of Chicago
 - name: Megason Lab, Harvard Medical School
