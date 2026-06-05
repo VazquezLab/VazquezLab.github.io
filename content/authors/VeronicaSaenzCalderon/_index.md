@@ -13,8 +13,8 @@ education:
   - course: B.Sc. in Biology
     institution: Pontificia Universidad Católica del Ecuador
     year: 2011
-interests:
-- 
+# interests:
+# - 
 organizations:
 - name: The Pennsylvania State University
   url: "https://science.psu.edu/bio"
