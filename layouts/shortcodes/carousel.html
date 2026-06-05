@@ -1,0 +1,113 @@
+{{/* Hugo Bootstrap Lightbox Carousel Shortcode*/}}
+{{/* Credits: André Bonfanti - abonfo@gmail.com*/}}
+
+{{/* Fetch parameters from shortcode */}}
+{{ $slider_num := .Get "slider_num" }}
+{{ $slider_images := .Page.Resources.ByType "image" }}
+{{/* interval=false will not autoplay the carousel */}}
+{{ $interval := .Get "interval" }}
+{{ $ride := .Get "ride" }}
+{{ $fade := .Get "fade"}}
+{{ $controls := .Get "controls" }}
+{{ $indicators := .Get "indicators" }}
+{{ $dark := .Get "dark" }}
+{{ $wrap := .Get "wrap" }}
+{{ $caption_source := .Get "caption_source" }}
+{{ $lightbox := .Get "lightbox" }}
+{{ $touch := .Get "touch" }}
+{{ $lb_caption_source := .Get "lb_caption_source" }}
+
+{{/* Render a carousel container if an image folder ID is given, or a folder name */}}
+{{ with $slider_num }}
+<div class="container">
+  <div class="row d-flex justify-content-center">
+    <div class="col-lg-9 col-xl-8">
+	    
+      {{ $images := $slider_images.Match (printf "slider-%s/*" $slider_num) }}
+
+      {{/* Define carousel and attributes from parameters */}}
+      <div id="{{ printf "LightboxCarousel-%s" $slider_num }}" 
+             class="carousel 
+             {{ with $dark }} carousel-dark {{ end }} 
+             slide mb-5 
+             {{ with $fade }} carousel-fade {{ end }}" 
+             data-bs-ride="{{ $ride }}" 
+             data-bs-interval="{{ $interval }}" 
+             data-bs-wrap="{{ $wrap }}"
+             {{ if eq $touch "false" }}data-bs-touch="{{ $touch }}"{{ end }}
+             >
+
+          {{/* Add bottom indicators to carousel if parameter is set */}}
+          {{ with $indicators }}
+            <div class="carousel-indicators">
+              {{ range $index, $value := $images }}
+              <button type="button" data-bs-target="#{{ printf "LightboxCarousel-%s" $slider_num }}" data-bs-slide-to="{{ $index }}" {{ if eq
+                $index 0 }}class="active" aria-current="true" {{ end }}aria-label="Slide {{ add $index 1}}"></button>
+              {{ end }}
+            </div>
+          {{ end }}
+
+          {{/* Render images */}}
+          <div class="carousel-inner">
+			      {{ range $index, $value := $images }}
+              <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
+
+                {{/* Render lightbox if parameter is set */}}
+  			        {{ with $lightbox }}
+                  <a href="{{ $value.RelPermalink }}" 
+                  data-lightbox="{{ $slider_num }}"
+                  {{ if eq $lb_caption_source "EXIF" }} 
+                    data-title="
+                      {{ with $value.Exif  }} 
+                      {{ with .Tags.ImageDescription }} {{ . }} {{ end }}
+                      {{ end }}"
+                  {{ else if eq $lb_caption_source "FILENAME" }}
+                    data-title="{{ path.BaseName $value }}"
+                  {{ end }}
+                  >
+                {{ end }}
+				          
+                  <img src="{{ $value.RelPermalink }}" class="d-block w-100" alt="Slide {{ add $index 1}}">
+                  {{ with $lightbox }}</a>{{ end }}
+                
+                {{/* Render caption if parameter is set */}}
+                {{ with $caption_source }}
+                  <div class="carousel-caption">
+                    <p class="carousel-description">
+                    
+                    {{/* Fetch caption from EXIF */}}
+                    {{ if eq $caption_source "EXIF" }}
+                      {{ with $value.Exif  }} 
+                        {{ with .Tags.ImageDescription }} {{ . }} {{ end }}
+                      {{ end }}
+                    {{/* Fetch caption from FILENAME */}}
+                    {{ else if eq $caption_source "FILENAME"}}
+                      {{ path.BaseName $value }}
+                    {{ end }}
+                    </p>
+                  </div>
+                {{ end }}
+
+			      </div>
+            {{ end }}
+          </div>
+
+          {{/* Add controls to carousel if parameter is set */}}
+          {{ with $controls }}
+          <button class="carousel-control-prev" type="button" data-bs-target="#{{ printf "LightboxCarousel-%s" $slider_num }}"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#{{ printf "LightboxCarousel-%s" $slider_num }}"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+          {{ end }}
+
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

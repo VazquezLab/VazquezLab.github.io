@@ -1,14 +1,14 @@
 ---
-title: "Coming soon: the Vazquez Lab!"
+title: "The Vazquez Lab Opens!"
 subtitle: "We're hiring!"
-date: 2025-04-04
+date: 2025-08-15
 image:
   preview_only: true
 authors:
   - Juan M Vazquez
 ---
 
-The Vazquez Lab will officially be opening its doors at Penn State University in __August 2025__! The lab will be studying the evolution of longevity-associated traits and the gene regulatory networks that govern them across extraordinarily long-lived mammals at all levels of life. 
+The Vazquez Lab in now officially open at Penn State University! Now our work begins: studying the evolution of longevity-associated traits and the gene regulatory networks that govern them across extraordinarily long-lived mammals at all levels of life. 
 
 The lab's strengths are highly interdisciplinary: we use a "farm-to-table genomics" approach combining field work and sampling, cellular and molecular biology, and functional genomics to study aging across all levels of life.
 

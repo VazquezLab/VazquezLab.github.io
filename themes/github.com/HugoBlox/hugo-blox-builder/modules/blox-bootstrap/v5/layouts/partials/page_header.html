@@ -1,5 +1,6 @@
 {{ $page := . }}
 {{ $featured := partial "blox-core/functions/get_featured_image.html" $page }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
 
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 
