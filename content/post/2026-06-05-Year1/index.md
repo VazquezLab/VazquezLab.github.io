@@ -5,7 +5,7 @@ image:
   preview_only: false
 authors:
   - Juan M Vazquez
-draft: true
+draft: false
 ---
 
 
