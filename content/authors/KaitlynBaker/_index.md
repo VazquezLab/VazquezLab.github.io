@@ -18,7 +18,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/BakerKaitlyn-CV-20251117.pdf
-role: PhD Candidate (formerly: Lab Technician)
+role: PhD Candidate (former Lab Technician)
 superuser: false
 title: Kaitlyn Baker
 user_groups:
