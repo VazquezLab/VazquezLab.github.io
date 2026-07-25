@@ -10,6 +10,7 @@ education:
 # interests:
 # - 
 organizations:
+- name: University of Minnesota - Twin Cities
 - name: The Pennsylvania State University
   url: "https://science.psu.edu/bio"
 social:
@@ -21,9 +22,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/BakerKaitlyn-CV-20251117.pdf
-role: Lab Technician
+role: PhD Candidate (formerly: Lab Technician)
 superuser: false
 title: Kaitlyn Baker
 user_groups:
-  - Staff
+  - Alumni
 ---

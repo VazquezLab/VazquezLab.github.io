@@ -7,15 +7,11 @@ organizations:
 - name: Lynch Lab, University of Chicago
 - name: Sudmant Lab, University of California, Berkeley
   url: "https://www.sudmantlab.org"
-- name: Gladyshev Lab, Harvard Medical School
-  url: "https://gladyshevlab.bwh.harvard.edu/"
 - name: Mango Bird Coffee Project
   url: "https://www.instagram.com/mangobirdcoffee/"
-role: "PhD Graduate, now owner of Mango Bird Coffee Project"
+- name: Eisen Lab, University of California, Berkeley
+role: "Postdoc, Eisen Lab at the University of California, Berkeley"
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:krenault@g.harvard.edu
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/mangobirdcoffee/
@@ -23,7 +19,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/nadyaali/
 superuser: false
-title: Nadya Ali
+title: Nadya Ali, Ph. D.
 user_groups:
 - Alumni
 ---
