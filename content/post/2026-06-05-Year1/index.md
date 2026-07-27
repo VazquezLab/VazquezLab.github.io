@@ -91,34 +91,34 @@ or [__read about our projects__]({{< relref "/project" >}}); we're especially
 excited to start studying the evolution of [__somatic mutations__]({{< relref "/project/somatic-mutations-bats" >}}) 
 and of [__genetic structural variation__]({{< relref "/project/myotis-pangenome" >}}) 
 across bats using long-read sequencing and pangenomics! 
-
-If this sounds interesting to you, feel free to take a look at the links below 
-and reach out!
-
-
-{{% row %}}
-{{% column %}}
-
-![Undergrads cartoon](job-ad-pic/undergrads.jpg)
-
-<center>{{% mention "YOU_undergrad" %}}</center>
-
-{{% /column %}}
-{{% column %}}
-
-![Grad student cartoon](job-ad-pic/grads.jpg)
-
-<center>{{% mention "YOU_grad" %}}</center>
-
-{{% /column %}}
-{{% column %}}
-
-![Postdoc cartoon](job-ad-pic/postdoc.jpg)
-
-<center>{{% mention "YOU_postdoc" %}}</center>
-
-{{% /column %}}
-{{% /row %}}
-
-{{% cta cta_link="/contact/" cta_text="Contact us!" %}}
+# 
+# If this sounds interesting to you, feel free to take a look at the links below 
+# and reach out!
+# 
+# 
+# {{% row %}}
+# {{% column %}}
+# 
+# ![Undergrads cartoon](job-ad-pic/undergrads.jpg)
+# 
+# <center>{{% mention "YOU_undergrad" %}}</center>
+# 
+# {{% /column %}}
+# {{% column %}}
+# 
+# ![Grad student cartoon](job-ad-pic/grads.jpg)
+# 
+# <center>{{% mention "YOU_grad" %}}</center>
+# 
+# {{% /column %}}
+# {{% column %}}
+# 
+# ![Postdoc cartoon](job-ad-pic/postdoc.jpg)
+# 
+# <center>{{% mention "YOU_postdoc" %}}</center>
+# 
+# {{% /column %}}
+# {{% /row %}}
+# 
+# {{% cta cta_link="/contact/" cta_text="Contact us!" %}}
 

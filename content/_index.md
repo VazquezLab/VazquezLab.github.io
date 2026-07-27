@@ -4,19 +4,24 @@ sections:
 - block: hero
   content:
     title: The Vazquez Lab
+    # cta:
+    #     label: Join us!
+    #     url: /contact
+    #     icon_pack: fas
+    #     icon: user-plus
+    # cta_alt:
+    #     label: Meet the team
+    #     url: /people
     cta:
-        label: Join us!
-        url: /contact
-        icon_pack: fas
-        icon: user-plus
-    cta_alt:
         label: Meet the team
         url: /people
-    cta_note:
-        label: |-
-          We're recruiting undergrads, grad students, and postdocs interested in
-          studying the evolution of aging using pangenomics, molecular and 
-          cellular biology, and functional evolutionary genomics.
+        icon_pack: fas
+        icon: user
+    # cta_note:
+    #     label: |-
+    #       We're recruiting undergrads, grad students, and postdocs interested in
+    #       studying the evolution of aging using pangenomics, molecular and 
+    #       cellular biology, and functional evolutionary genomics.
     image:
       filename: Collage.jpg
     text: |-
